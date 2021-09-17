@@ -1,0 +1,14 @@
+[package]
+
+name = "rust-users"
+version = "0.0.1"
+authors = [ "Ryan Chenkie <ryanchenkie@gmail.com>" ]
+
+[dependencies]
+nickel = "*"
+mongodb = "*"
+bson = "*"
+rustc-serialize = "*"
+hyper = "*"
+jwt = "*"
+rust-crypto = "*"
